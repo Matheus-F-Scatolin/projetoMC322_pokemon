@@ -1,2 +1,3 @@
 # projetoMC322_pokemon
-Esse repositório contém a implementação de um jogo de pokémon simples. Aqui são usados conceitos básicos e avançados da POO, e houve a criação de uma interface gráfica (bem) simples. O projeto foi desenvolvido em grupo, sendo os outros integrantes: Adriano Campos (AdrianoCampos05), Pedro da Silva (pedro-git-hub) e Giovani Leme (Giovanipt2).
+This repository contains the implementation of Pokémon game. It uses both basic and advanced object-oriented programming concepts and includes a (very) simple graphical interface. The project was developed as a group, with the other members being Adriano Campos (AdrianoCampos05), Pedro da Silva (pedro-git-hub), and Giovani Leme (Giovanipt2).
+
